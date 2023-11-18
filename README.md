@@ -23,12 +23,6 @@ them using your favourite package manager. Once the dependencies are installed, 
 make geth
 ```
 
-or, to build the full suite of utilities:
-
-```shell
-make all
-```
-
 ## Executables
 
 The go-ethereum project comes with several wrappers/executables found in the `cmd`
